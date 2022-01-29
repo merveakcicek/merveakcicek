@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52)
+https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52
 
 ![snake gif](https://github.com/merveakcicek/merveakcicek/blob/output/github-contribution-grid-snake.gif)
