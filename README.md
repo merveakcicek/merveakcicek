@@ -7,7 +7,7 @@
 </p>
 
 ---
-<img align="right" alt="GIF" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" top="20px" width="310" height="230" /> 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" top="20px" width="310" height="210" /> 
 
 ### Languages and Tools:
 <a href = 'https://en.wikipedia.org/wiki/HTML'> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
