@@ -22,7 +22,7 @@
 
 - 🏃‍♀️ I’m currently working on Patika Bootcamp Acceleration Program
 - 👩🏻‍💻 I constantly improving myself in Front- End Development
-- 🧚🏻 I’m currently learning **JavaScript, React**
+- 🧚🏻 I’m currently learning **React**
 - 📫 How to reach me: **merve.akcicek1@outlook.com**
 - 📚 I'm reading the Modern JavaScript book.
 
