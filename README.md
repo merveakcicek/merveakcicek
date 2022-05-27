@@ -20,9 +20,9 @@
 <a href = 'https://git-scm.com/'> <img width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
 </a>
 
-- 🏃‍♀️ I’m currently working on Patika Bootcamp Acceleration Program
-- 👩🏻‍💻 I constantly improving myself in Front- End Development
-- 🧚🏻 I’m currently learning **React**
+- 🏃‍♀️ I’m currently working on Renk Bilişim
+- 👩🏻‍💻 I constantly improving myself in Mobile Development
+- 🧚🏻 I’m currently learning **Flutter**
 - 📫 How to reach me: **merve.akcicek1@outlook.com**
 - 📚 I'm reading the Modern JavaScript book.
 
