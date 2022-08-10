@@ -20,7 +20,7 @@
 
 - 🏃‍♀️ I’m currently working on Renk Bilişim
 - 👩🏻‍💻 I constantly improving myself in Mobile Development
-- 🧚🏻 I’m currently learning **Ionic**
+- 🧚🏻 I’m currently learning **Swift**
 - 📫 How to reach me: **merve.akcicek1@outlook.com**
 - 📚 I'm reading the Modern JavaScript book.
 
