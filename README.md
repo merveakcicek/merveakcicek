@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/merve-akcicek/">Linkedin</a> 
 </p>
 
----
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" top="20px" width="310" height="210" /> 
 
 - 🏃‍♀️ I’m currently working on Nuevo Softwarehouse
@@ -14,7 +14,7 @@
 - 📫 How to reach me: **merve.akcicek1@outlook.com**
 - 📚 I'm reading the Modern JavaScript book.
 
----
+
 
 
 ![snake gif](https://github.com/merveakcicek/merveakcicek/blob/output/github-contribution-grid-snake.gif)
