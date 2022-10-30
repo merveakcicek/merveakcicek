@@ -18,9 +18,8 @@
 <a href = 'https://git-scm.com/'> <img width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
 </a>
 
-- 🏃‍♀️ I’m currently working on Renk Bilişim
-- 👩🏻‍💻 I constantly improving myself in Mobile Development
-- 🧚🏻 I’m currently learning **Swift**
+- 🏃‍♀️ I’m currently working on Nuevo Softwarehouse
+- 🧚🏻 I’m currently learning **React**
 - 📫 How to reach me: **merve.akcicek1@outlook.com**
 - 📚 I'm reading the Modern JavaScript book.
 
